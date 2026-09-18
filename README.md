@@ -2,8 +2,6 @@
 
 A system analysis case study focused on improving the reliability and traceability of sales visit and order data within a Sales Automation Platform (SAP).
 
-## Candidate
-
 **Nama:** Marhama Hasana  
 **Role:** System Analyst  
 
@@ -112,12 +110,3 @@ Dokumen lengkap case study tersedia pada file:
 | **Domain** | Sales Automation Platform |
 | **Focus** | Business Process & Requirements Analysis |
 | **Key Areas** | Geotagging, Outlet Visit, NOO, Order Management, OOS |
-
-## Contact
-
-**Marhama Hasana**
-
-System Analyst | Business Process | Requirements Analysis
-
-[LinkedIn](YOUR_LINKEDIN_URL)  
-[GitHub](YOUR_GITHUB_URL)
